@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Axl William (Laxwip)</h1>
+<h1 align="center">Hola 👋, soy Axl Pacheco (Laxwip)</h1>
 
 <h3 align="center">Sobre mí</h3>
 
