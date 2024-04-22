@@ -1,43 +1,156 @@
-<h1 align="center">Hola 👋, soy Axl Pacheco (Laxwip)</h1>
+  <div align=center>
+    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=FFF&size=40&center=true&vCenter=true&width=600&height=50&lines=Hola! Soy Laxwip+%F0%9F%91%8B;Desarrollador Full-Stack+&#128187++;Especializado en Front-End+&#127793++;En continuo aprendizaje...&#11088++;Gracias por pasar por aqui!+&#127775++;Remote work+&#127984++" alt="Headline" />
+  </div>
 
-<h3 align="center">Sobre mí</h3>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Soy un programador **Full Stack**, enfocado principalmente en el ***FrontEnd***, tengo la grata experiencia de ser participe en el Bootcamp de **SoyHenry**, donde aprendí mucho para llegar a donde estoy, estoy encantado de conocer y aprender nuevas cosas, siempre mirando hacia adelante y orgulloso de lo que logré y lograré 😁.
+  <div align="center">
+    <img  src="https://res.cloudinary.com/dpk2wmbsb/image/upload/v1713760102/grid-snake_azzjn5.svg"
+        alt="snake" /></a>
+  </div>
 
-<hr>
+  <br>
 
-<h3 align="center">¿Qué estoy aprendiendo ahora?</h3>
+  [![GitHub followers](https://img.shields.io/github/followers/laxwip.svg?style=social&label=Followers)](https://github.com/laxwip?tab=followers)
+  <img src="https://komarev.com/ghpvc/?username=laxwip&label=Profile%20views&color=61AFEF&style=flat" alt="100rabhcsmc" />
+    
+  **Soy un programador Fullstack** 💻
 
-- 💻 Actualmente estoy aprendiendo *Tailwind*, un framework compatible con React que me proporciona clases de utilidad para construir diseños personalizados directamente en el HTML. Este conocimiento va a ser aplicado en mi **Proyecto final** dentro del Bootcamp.
+  <div>
+      <p>
+      Con especialización en el desarrollo FrontEnd, he tenido la oportunidad de formarme en el Bootcamp de SoyHenry, donde he adquirido conocimientos fundamentales que han sido cruciales en mi trayectoria profesional. Mi entusiasmo por el aprendizaje y el crecimiento personal me impulsa a buscar constantemente nuevas experiencias y desafíos. Estoy orgulloso de mis logros y ansioso por lo que aún puedo lograr.
+      </p>   
+      <p>
+      Mi experiencia se centra en tecnologías como React, Redux, HTML y CSS para el desarrollo FrontEnd, y en Node.js, Express, Sequelize y PostgreSQL para el desarrollo BackEnd.
+      </p>
+      <p>
+      Actualmente, mi objetivo es profundizar en mi experiencia y conocimientos en el desarrollo FrontEnd. Estoy interesado en oportunidades de prácticas como Desarrollador Jr en proyectos web, donde pueda aplicar y perfeccionar mis habilidades. Mi apasionamiento por el aprendizaje y la enseñanza, junto con mi compromiso de crecimiento profesional, me motivan a buscar una colaboración productiva con una empresa y sus colegas.
+      </p>
+    </div>
+    <p align="center" dir="auto" style="width: 300px;">
+      <img src="https://res.cloudinary.com/dpk2wmbsb/image/upload/v1713796342/img_iq95jr.gif" style="width: 300px; margin: auto; border-radius: 50%;">
+    </p>
+    
 
-<hr>
+  <br/>  
 
-<h3 align="left">Idiomas:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-<hr>
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: flex; justify-content: center;" >Tecnologías que conozco👨🏻‍💻</h2></summary>
+    </ul>
+  </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!--tech stack icons-->
+  <br>
+  <br>
 
-<h3 align="left">Tecnologías: </h3>
-<h4>Front-End: HTML, CSS, React, Redux, Tailwind</h4>
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-
-<h4>Back-End: Node Js, Express, PostgresSQL, Sequelize.</h4>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-<hr>
-
-<h3 align="left">Conéctate conmigo:</h3>
-
-<h3>Estoy listo para aportar mi creatividad a proyectos emocionantes. ¡Conéctate y creemos magia en el desarrollo web!</h3>
-
-<p align="left">
-    <a href="www.linkedin.com/in/axl-william-pacheco-huané-b1193b24a" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadir-yamila-ulmi-38b017227" height="30" width="40" />
+  <p align="center">
+  <table align="center">
+  <tr border="none">
+  <td width="33%" align="center">
+  <b>Frontend</b>
+  <br>
+  <br> 
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=css,figma,html,js,md,react,redux&perline=5&theme=light" />
     </a>
-  <a href="mailto:pachecogam135583@gmail.com" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Icono de Correo Electrónico" height="30" width="40" />
+  </td>
+  <td width="33%" align="center">
+  <b>Backend</b>
+  <br>
+  <br> 
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,express,js,mysql,nodejs&perline=5&theme=light" />
     </a>
-</p>
+  </td>
+  <td width="33%" align="center">
+  <b>Tools</b>
+  <br>
+  <br> 
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,discord,vscode&perline=5&theme=light" />
+    </a>
+  </td>
+  </tr>
+  </table>
+  </p>
+
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: flex; justify-content: center;" >¿Qué estoy aprendiendo ahora?👨🏻‍💻</h2></summary>
+    </ul>
+  </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!--tech stack icons-->
+  <br>
+  <br>
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=electron,threejs&perline=5&theme=light" />
+    </a>
+
+
+
+
+
+
+
+  
+
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: flex; justify-content: center;" >Github Stats 🏆</h2></summary>
+    </ul>
+  </div>  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <br>
+
+  <p align="center">
+    <!--- stats (start) -->
+  <table align="center">
+  <tr border="none">
+  <td width="60%" align="center">
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=laxwip&theme=dark&show_icons=true&count_private=true" />
+    <br></br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=laxwip&theme=dark&hide_border=false" /> 
+  </td>
+
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laxwip&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+  </table>
+  <!--- stats (end) -->
+
+  <!--- trophy (start) -->
+  <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=laxwip&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      </a>
+  </div>
+  <!--- trophy (start) -->
+  </p>    
+
+
+  <br/>
+
+
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: flex; justify-content: center;" >Contáctame👨🏻‍💻</h2></summary>
+    </ul>
+  </div>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <div align="center">
+
+  <br>
+
+  <a href="https://linkedin.com/in/axl-william-pacheco-huané-b1193b24a" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
+  <a href="https://instagram.com/iamrishavanand" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>  
+  </div>  
+
