@@ -1,5 +1,5 @@
   <div align=center>
-    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=FFF&size=40&center=true&vCenter=true&width=600&height=50&lines=Hola! Soy Laxwip+%F0%9F%91%8B;Desarrollador Full-Stack+&#128187++;Especializado en Front-End+&#127793++;En continuo aprendizaje...&#11088++;Gracias por pasar por aqui!+&#127775++;Remote work+&#127984++" alt="Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=50B9A6&size=40&center=true&vCenter=true&width=600&height=50&lines=Hola! Soy Laxwip+%F0%9F%91%8B;Desarrollador Full-Stack+&#128187++;Especializado en Front-End+&#127793++;En continuo aprendizaje...&#11088++;Gracias por pasar por aqui!+&#127775++;Remote work+&#127984++" alt="Headline" />
   </div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
