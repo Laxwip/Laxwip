@@ -34,15 +34,14 @@
 
   <br/>  
 
-  <div id="user-content-toc">
+ 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <div id="user-content-toc">
     <ul align="center">
       <summary><h2 style="display: flex; justify-content: center;" >Tecnologías que conozco👨🏻‍💻</h2></summary>
     </ul>
   </div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <!--tech stack icons-->
-  <br>
-  <br>
+
 
   <p align="center">
   <table align="center">
@@ -75,15 +74,14 @@
   </table>
   </p>
 
-  <div id="user-content-toc">
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <div id="user-content-toc">
     <ul align="center">
       <summary><h2 style="display: flex; justify-content: center;" >¿Qué estoy aprendiendo ahora?👨🏻‍💻</h2></summary>
     </ul>
   </div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <!--tech stack icons-->
-  <br>
-  <br>
+
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=electron,threejs&perline=5&theme=light" />
     </a>
@@ -96,14 +94,13 @@
 
   
 
-  <div id="user-content-toc">
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <div id="user-content-toc">
     <ul align="center">
       <summary><h2 style="display: flex; justify-content: center;" >Github Stats 🏆</h2></summary>
     </ul>
   </div>  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  <br>
 
   <p align="center">
     <!--- stats (start) -->
@@ -135,14 +132,15 @@
   <br/>
 
 
-  <div id="user-content-toc">
+
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <div align="center">
+    <div id="user-content-toc">
     <ul align="center">
       <summary><h2 style="display: flex; justify-content: center;" >Contáctame👨🏻‍💻</h2></summary>
     </ul>
   </div>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <div align="center">
 
   <br>
 
